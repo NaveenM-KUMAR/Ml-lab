@@ -1,0 +1,5 @@
+Outlook,Airtemp,Humidity,Wind,Water,Forecast,Enjoyspot
+Sunny,Warm,High,Strong,Warm,Same,Yes
+Rainy,Cold,High,Strong,Warm,Change,No
+Sunny,Warm,High,Strong,Cool,Change,Yes
+Rainy,Cold,Normal,Strong,Cool,Same,No
